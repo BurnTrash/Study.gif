@@ -1,2 +1,7 @@
-﻿  FSM.cpp
-  FSM.vcxproj -> C:\Users\남성용\source\repos\FSM\Debug\FSM.exe
+﻿  Player.cpp
+  Player.h
+  코드를 생성하고 있습니다...
+c:\users\남성용\source\repos\fsm\fsm\cha_magician.h(13): error C4716: 'Chara_Magician::Attack': 값을 반환해야 합니다.
+c:\users\남성용\source\repos\fsm\fsm\cha_magician.h(16): error C4716: 'Chara_Magician::Skill': 값을 반환해야 합니다.
+c:\users\남성용\source\repos\fsm\fsm\cha_worrior.h(13): error C4716: 'Cha_Worrior::Attack': 값을 반환해야 합니다.
+c:\users\남성용\source\repos\fsm\fsm\cha_worrior.h(16): error C4716: 'Cha_Worrior::Skill': 값을 반환해야 합니다.
